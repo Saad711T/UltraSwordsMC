@@ -18,7 +18,12 @@ this is the initial and prototype files of the mod...
 
 ### Crafting
 Below is crafting examples :
+<br>
+
 ![emerald](crafts/emerald_craft.png)
+
+<br>
+
 ![redstone](crafts/redstone_craft.png)
 
 #### Credits

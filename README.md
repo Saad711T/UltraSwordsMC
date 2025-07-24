@@ -6,7 +6,7 @@
 
 
 # UltraSwordsMC
-Minecraft mod adding 3 swords with vanilla attributes and logic !
+Minecraft mod adding 4 swords with vanilla attributes and logic !
 ### Notice
 this is the initial and prototype files of the mod...
 ![image](bannermod.png)
@@ -14,7 +14,7 @@ this is the initial and prototype files of the mod...
 ## Mod Informations
 - Supporting `1.20` and later updates
 - Supporting **Spigot** only , may be supports **Forge** in later versions
-- Add 3 Swords with 3 textures , crafting from vanilla materials `Obsidian` , `Redstone` and `Copper` .
+- Add 4 Swords with 4 textures , crafting from vanilla materials `Obsidian` , `Emerald` , `Redstone` and `Copper` .
 
 ### Crafting
 Below is crafting examples :

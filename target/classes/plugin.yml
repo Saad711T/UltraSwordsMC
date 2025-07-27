@@ -4,7 +4,8 @@ main: com.saad.ultraswords.UltraSwords
 api-version: 1.20
 author: 0xSaad
 description: >
-  Adds 3 new swords to Minecraft:
+  Adds 4 new swords to Minecraft:
     - Copper Sword (wood strength, stone durability)
     - Redstone Sword (stone strength, iron durability)
     - Obsidian Sword (diamond strength, iron durability)
+    - Emerald Sword (iron strength, diamond durability)
